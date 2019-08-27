@@ -1,0 +1,69 @@
+<html lang="en">
+<head>
+<title>ARMY</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+   background-image: url(18.jpg);
+    background-position:center;
+    padding: 15px;
+  margin: 5;
+
+}
+
+.header {
+    background-color: yellowgreen;
+    padding: 15px;
+    text-align: center;    
+  
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: olive;
+
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 18px 18px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: olive;
+    color:pink;
+}
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Defence Donations</h1>
+
+<marquee>
+<h4>I am not afraid of an Army of lions lead by a sheep,I am afraid of sheep lead by a lion...</h4>
+</marquee>
+
+</div>
+
+<div class="topnav">
+  <a href="#" align="center">ToDay</a>
+  <a href="#" align="center">Donations</a>
+  <a href="donarlist.html" align="center">Donars List</a>
+  <a href="gal.html" align="center">Gallery</a>
+</div>
+
+</body>
+</html>
+
